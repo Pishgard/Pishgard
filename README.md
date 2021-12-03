@@ -1,5 +1,9 @@
 # <p align="center">Hi <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/hi.gif" width="35px">, I'm Ali Pishgard!</p>
 
+<p align="center">
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img align="center" src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Software+Engineer;I'm+a+Python+Developer" /></a>
+</p>
+
 <!--
 **Pishgard/Pishgard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -28,6 +28,9 @@ Here are some ideas to get you started:
     <a href="https://www.linkedin.com/in/Pishgard/" target="blank"><img align="center"
             src="https://cdn.iconscout.com/icon/free/png-64/linkedin-208-916919.png" alt="linkedin" height="40"
             width="40" /></a>
+    <a href="https://twitter.com/Pishgard/" target="blank"><img align="center"
+            src="https://git.io/JrCAv" alt="Twitter" height="40"
+            width="40" /></a>
     <a href="https://www.instagram.com/Pishgard/" target="blank"><img align="center"
             src="https://cdn.iconscout.com/icon/free/png-64/instagram-216-721958.png" alt="instagram" height="40"
             width="40" /></a>

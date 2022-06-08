@@ -24,7 +24,7 @@ Here are some ideas to get you started:
     /> <br>
 
    <br/>
-<h2 align="center"> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2 align="center"> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "32"> </h2>
  <br/><br/>
 <div align="center">
 <a href= https://github.com/Pishgard?tab=repositories&q=&type=&language=python&sort= > <img width ='62px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
@@ -230,7 +230,7 @@ Here are some ideas to get you started:
             src="https://cdn.iconscout.com/icon/free/png-64/linkedin-208-916919.png" alt="linkedin" height="40"
             width="40" /></a>
     <a href="https://twitter.com/Pishgard/" target="blank"><img align="center"
-            src="https://git.io/JrCAv" alt="Twitter" height="40"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"" alt="Twitter" height="40"
             width="40" /></a>
     <a href="https://www.instagram.com/Pishgard/" target="blank"><img align="center"
             src="https://cdn.iconscout.com/icon/free/png-64/instagram-216-721958.png" alt="instagram" height="40"

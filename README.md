@@ -20,10 +20,11 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-    <img alt="status github, commits, etc..." width="500px" src="https://github-readme-stats.vercel.app/api?username=Pishgard&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8"
-    /> <br>
-
+<!--     <img alt="status github, commits, etc..." width="500px" src="https://github-readme-stats.vercel.app/api?username=Pishgard&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8"/> 
+  <br> -->
+    <img width="500px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Pishgard&langs_count=8&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8"/>
    <br/>
+  <br/>
 <h2 align="center"> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "32"> </h2>
  <br/><br/>
 <div align="center">

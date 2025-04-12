@@ -44,8 +44,9 @@ Here are some ideas to get you started:
 <a href= https://github.com/Pishgard?tab=repositories&q=&type=&language=flutter&sort= > <img width ='62px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flutter.svg'> </a>
 <a href= https://github.com/Pishgard?tab=repositories&q=&type=&language=php&sort= > <img width ='62px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg'> </a>
 <a href= https://github.com/Pishgard?tab=repositories&q=&type=&language=laravel&sort= > <img width ='62px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/laravel.svg'> </a>
-<a href= https://github.com/Pishgard?tab=repositories&q=&type=&language=mysql&sort= > <img width ='62px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
 <a href= https://github.com/Pishgard?tab=repositories&q=&type=&language=docker&sort= > <img width ='62px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'> </a>
+<!-- <a href= https://github.com/Pishgard?tab=repositories&q=&type=&language=mysql&sort= > <img width ='62px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
+ -->
  <!-- <a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a> -->
 <!-- <a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=scikit&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg'> </a> -->
 <!-- <a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=pytorch&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'> </a>

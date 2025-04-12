@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <div align="center">
 <a href= https://github.com/Pishgard?tab=repositories&q=&type=&language=python&sort= > <img width ='62px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <a href= https://github.com/Pishgard?tab=repositories&q=&type=&language=django&sort= > <img width ='62px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/django.svg'> </a>
-<a href= https://github.com/Pishgard?tab=repositories&q=&type=&language=postgresql&sort= > <img width ='62px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'> </a>
+<!-- <a href= https://github.com/Pishgard?tab=repositories&q=&type=&language=postgresql&sort= > <img width ='62px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'> </a> -->
 <!-- <a href= https://github.com/Pishgard?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='62px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
 <a href= https://github.com/Pishgard?tab=repositories&q=&type=&language=c&sort= > <img width ='62px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a> -->
 <a href= https://github.com/Pishgard?tab=repositories&q=&type=&language=cpp&sort= > <img width ='62px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>

@@ -1,3 +1,0 @@
-# qr4l79e5zqjooferk3u7ptc9ww78ezgmxirg
-# x6vizo4ughis89t51iz35uh
-# offzy1kdubmztchzutsfzwe8

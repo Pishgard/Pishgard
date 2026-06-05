@@ -18,7 +18,7 @@
 ```python
 class Ali:
     role     = "Software Engineer"
-    company  = "QueraTeam"
+    company  = "Quera"
     stack    = ["Django", "DRF", "Celery", "Next.js", "TypeScript"]
     focus    = ["Clean architecture", "API design", "Scalable systems"]
     writing  = "alicode.ir"
@@ -78,3 +78,11 @@ class Ali:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=80&section=footer" width="100%" />
 
 </div>
+
+
+
+
+
+
+
+

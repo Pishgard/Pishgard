@@ -52,12 +52,6 @@ class Ali:
 
 ### Stats
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Pishgard&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pishgard&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=6&hide=css,html,scss" />
-
-</div>
 
 <div align="center">
 

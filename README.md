@@ -54,8 +54,8 @@ class Ali:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Pishgard&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pishgard&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=6&hide=css,html,scss" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pishgard&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pishgard&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=6&hide=css,html,scss" />
 
 <img src="https://streak-stats.demolab.com/?user=Pishgard&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 

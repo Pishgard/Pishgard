@@ -9,6 +9,7 @@
 <p>
   <img src="https://img.shields.io/badge/Tehran%2C%20Iran-100000?style=flat-square&logo=googlemaps&logoColor=white&labelColor=0d1117&color=21262d" />
   <img src="https://img.shields.io/badge/@QueraTeam-100000?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=21262d" />
+  <img src="https://komarev.com/ghpvc/?username=Pishgard&style=flat-square&color=21262d&label=profile+views" />
 </p>
 
 </div>
@@ -18,7 +19,7 @@
 ```python
 class Ali:
     role     = "Software Engineer"
-    company  = "Quera"
+    company  = "QueraTeam"
     stack    = ["Django", "DRF", "Celery", "Next.js", "TypeScript"]
     focus    = ["Clean architecture", "API design", "Scalable systems"]
     writing  = "alicode.ir"
@@ -52,10 +53,18 @@ class Ali:
 
 ### Stats
 
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Pishgard&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pishgard&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=6&hide=css,html,scss" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pishgard&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+
+</div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pishgard&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pishgard&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff" width="100%" />
 
 </div>
 
@@ -67,16 +76,10 @@ class Ali:
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/linkedin-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/pishgard)
 &nbsp;
+[![Telegram](https://img.shields.io/badge/telegram-0d1117?style=flat-square&logo=telegram&logoColor=26A5E4)](https://t.me/Pishgard)
+&nbsp;
 [![Email](https://img.shields.io/badge/email-0d1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:ali.pishgard79@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=80&section=footer" width="100%" />
 
 </div>
-
-
-
-
-
-
-
-

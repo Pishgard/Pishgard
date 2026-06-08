@@ -21,7 +21,7 @@ class Ali:
     company  = "QueraTeam"
     stack    = ["Django", "DRF", "Celery", "Next.js", "TypeScript"]
     focus    = ["Clean architecture", "API design", "Scalable systems"]
-    writing  = "alicode.ir"
+    writing  = "pishgard.ir"
 ```
 
 ---
@@ -68,7 +68,7 @@ class Ali:
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/alicode.ir-0d1117?style=flat-square&logo=safari&logoColor=58A6FF)](https://alicode.ir)
+[![Website](https://img.shields.io/badge/pishgard.ir-0d1117?style=flat-square&logo=safari&logoColor=58A6FF)](https://pishgard.ir)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/linkedin-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/pishgard)
 &nbsp;
